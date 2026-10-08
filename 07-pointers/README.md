@@ -46,8 +46,8 @@ int main(void)
 **Output**
 
 ```text
-x holds 42 and lives at 0x7ffde602f81c
-y holds 1.5 and lives at 0x7ffde602f820
+x holds 42 and lives at 0x7fff17e0335c
+y holds 1.5 and lives at 0x7fff17e03360
 ```
 
 The addresses are printed in hexadecimal, and they will be different on your computer and from one run to the next. Their exact values never matter. What matters is that they can be stored and passed around.

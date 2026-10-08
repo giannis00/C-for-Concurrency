@@ -1,0 +1,16 @@
+{
+  "title": "C for Concurrency",
+  "part": "Part 1: C refresher",
+  "instructor": "Ioannis Tsioulis",
+  "lessons": [
+    {"folder": "01-hello-c", "title": "Hello, C", "next": "where programs start to remember things and talk to the user."},
+    {"folder": "02-variables-and-io", "title": "Variables, types and input/output", "next": "where programs start to calculate and to choose."},
+    {"folder": "03-operators-and-decisions", "title": "Operators and decisions", "next": "where one line of code does the work of a thousand."},
+    {"folder": "04-loops", "title": "Loops", "next": "where loops get data to work on."},
+    {"folder": "05-arrays", "title": "Arrays", "next": "where long programs are cut into named, reusable pieces."},
+    {"folder": "06-functions", "title": "Functions", "next": "where a function finally gets to change its caller's variables."},
+    {"folder": "07-pointers", "title": "Pointers", "next": "where the size of an array is decided while the program runs."},
+    {"folder": "08-dynamic-memory", "title": "Dynamic memory", "next": "where several values travel together under one name."},
+    {"folder": "09-structs", "title": "Structs", "next": "🏁 **You have completed the C refresher.** You can now read and write the C that the parallel programming labs are built on: loops over arrays, functions that take pointers, and memory that you allocate and free yourself. Go back to the [course home](../README.md) to see what comes next."}
+  ]
+}
